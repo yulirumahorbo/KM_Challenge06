@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565042929187",
+    "project_id": "challenge-chapter-6",
+    "storage_bucket": "challenge-chapter-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565042929187:android:e12471b395b12f9d119b96",
+        "android_client_info": {
+          "package_name": "com.challenge6app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565042929187-k0p0jas6lufhnc77gt9v378ebcp9f20m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.challenge6app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565042929187-20tqghg55oqdcgohpfmiqdf7cm6akcnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyBx7UJxYkz5KeFwUp3Ft6Qhv6n8dArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565042929187-20tqghg55oqdcgohpfmiqdf7cm6akcnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
